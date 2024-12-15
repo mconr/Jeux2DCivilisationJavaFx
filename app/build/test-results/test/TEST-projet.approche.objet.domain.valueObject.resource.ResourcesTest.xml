@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="projet.approche.objet.domain.valueObject.resource.ResourcesTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2024-12-15T16:54:49" hostname="LAPTOP-H2MF1KJE" time="0.077">
+  <properties/>
+  <testcase name="testAdd()" classname="projet.approche.objet.domain.valueObject.resource.ResourcesTest" time="0.027"/>
+  <testcase name="testSub()" classname="projet.approche.objet.domain.valueObject.resource.ResourcesTest" time="0.001"/>
+  <testcase name="testToString()" classname="projet.approche.objet.domain.valueObject.resource.ResourcesTest" time="0.005"/>
+  <testcase name="testEquals()" classname="projet.approche.objet.domain.valueObject.resource.ResourcesTest" time="0.007"/>
+  <testcase name="testAddDifferentTypes()" classname="projet.approche.objet.domain.valueObject.resource.ResourcesTest" time="0.006"/>
+  <testcase name="testToShortString()" classname="projet.approche.objet.domain.valueObject.resource.ResourcesTest" time="0.001"/>
+  <testcase name="testConstructor()" classname="projet.approche.objet.domain.valueObject.resource.ResourcesTest" time="0.018"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

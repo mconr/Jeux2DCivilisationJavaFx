@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="projet.approche.objet.domain.valueObject.resource.ResourceListTest" tests="18" skipped="0" failures="0" errors="0" timestamp="2024-12-15T16:54:48" hostname="LAPTOP-H2MF1KJE" time="0.205">
+  <properties/>
+  <testcase name="testRemoveResourceNotSameType()" classname="projet.approche.objet.domain.valueObject.resource.ResourceListTest" time="0.003"/>
+  <testcase name="testAddResource()" classname="projet.approche.objet.domain.valueObject.resource.ResourceListTest" time="0.004"/>
+  <testcase name="testContainsResource()" classname="projet.approche.objet.domain.valueObject.resource.ResourceListTest" time="0.003"/>
+  <testcase name="testGet()" classname="projet.approche.objet.domain.valueObject.resource.ResourceListTest" time="0.002"/>
+  <testcase name="testRemoveResourceEnough()" classname="projet.approche.objet.domain.valueObject.resource.ResourceListTest" time="0.002"/>
+  <testcase name="testSize()" classname="projet.approche.objet.domain.valueObject.resource.ResourceListTest" time="0.002"/>
+  <testcase name="testAddSameResource()" classname="projet.approche.objet.domain.valueObject.resource.ResourceListTest" time="0.002"/>
+  <testcase name="testRemoveResourceListNotEnough()" classname="projet.approche.objet.domain.valueObject.resource.ResourceListTest" time="0.005"/>
+  <testcase name="testRemoveResourceListNotSameType()" classname="projet.approche.objet.domain.valueObject.resource.ResourceListTest" time="0.011"/>
+  <testcase name="testContainsResourceList()" classname="projet.approche.objet.domain.valueObject.resource.ResourceListTest" time="0.002"/>
+  <testcase name="testRemoveResourceList()" classname="projet.approche.objet.domain.valueObject.resource.ResourceListTest" time="0.003"/>
+  <testcase name="testRemoveResource()" classname="projet.approche.objet.domain.valueObject.resource.ResourceListTest" time="0.011"/>
+  <testcase name="testEquals()" classname="projet.approche.objet.domain.valueObject.resource.ResourceListTest" time="0.001"/>
+  <testcase name="testAddResourceList()" classname="projet.approche.objet.domain.valueObject.resource.ResourceListTest" time="0.005"/>
+  <testcase name="testIsEmpty()" classname="projet.approche.objet.domain.valueObject.resource.ResourceListTest" time="0.005"/>
+  <testcase name="testIterator()" classname="projet.approche.objet.domain.valueObject.resource.ResourceListTest" time="0.029"/>
+  <testcase name="testRemoveResourceNotEnough()" classname="projet.approche.objet.domain.valueObject.resource.ResourceListTest" time="0.001"/>
+  <testcase name="testConstructor()" classname="projet.approche.objet.domain.valueObject.resource.ResourceListTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

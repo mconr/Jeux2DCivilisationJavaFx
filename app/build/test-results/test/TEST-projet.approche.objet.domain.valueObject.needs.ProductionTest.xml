@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="projet.approche.objet.domain.valueObject.needs.ProductionTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-12-15T16:54:48" hostname="LAPTOP-H2MF1KJE" time="0.001">
+  <properties/>
+  <testcase name="multiplyTest()" classname="projet.approche.objet.domain.valueObject.needs.ProductionTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

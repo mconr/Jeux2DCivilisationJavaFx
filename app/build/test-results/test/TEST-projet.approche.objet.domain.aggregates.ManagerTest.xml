@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="projet.approche.objet.domain.aggregates.ManagerTest" tests="14" skipped="0" failures="0" errors="0" timestamp="2024-12-15T16:54:48" hostname="LAPTOP-H2MF1KJE" time="0.138">
+  <properties/>
+  <testcase name="testEndGame()" classname="projet.approche.objet.domain.aggregates.ManagerTest" time="0.007"/>
+  <testcase name="testStartGame()" classname="projet.approche.objet.domain.aggregates.ManagerTest" time="0.003"/>
+  <testcase name="testGetProduction()" classname="projet.approche.objet.domain.aggregates.ManagerTest" time="0.008"/>
+  <testcase name="testDestroyBuilding()" classname="projet.approche.objet.domain.aggregates.ManagerTest" time="0.014"/>
+  <testcase name="testRemoveInhabitantFromBuilding()" classname="projet.approche.objet.domain.aggregates.ManagerTest" time="0.005"/>
+  <testcase name="testBuildBuilding()" classname="projet.approche.objet.domain.aggregates.ManagerTest" time="0.01"/>
+  <testcase name="testBuildBuildingNotInGrid()" classname="projet.approche.objet.domain.aggregates.ManagerTest" time="0.01"/>
+  <testcase name="testAddWorkerToBuilding()" classname="projet.approche.objet.domain.aggregates.ManagerTest" time="0.005"/>
+  <testcase name="testAddInhabitantToBuilding()" classname="projet.approche.objet.domain.aggregates.ManagerTest" time="0.009"/>
+  <testcase name="testBuildBuildingNotFree()" classname="projet.approche.objet.domain.aggregates.ManagerTest" time="0.009"/>
+  <testcase name="testPauseGame()" classname="projet.approche.objet.domain.aggregates.ManagerTest" time="0.003"/>
+  <testcase name="testRemoveWorkerFromBuilding()" classname="projet.approche.objet.domain.aggregates.ManagerTest" time="0.012"/>
+  <testcase name="testDestroyBuildingNotInGrid()" classname="projet.approche.objet.domain.aggregates.ManagerTest" time="0.006"/>
+  <testcase name="testDestroyBuildingNoBuildingHere()" classname="projet.approche.objet.domain.aggregates.ManagerTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

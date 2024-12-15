@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="projet.approche.objet.domain.valueObject.grid.GridTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2024-12-15T16:54:48" hostname="LAPTOP-H2MF1KJE" time="0.039">
+  <properties/>
+  <testcase name="testRemoveBuilding_NoBuildingHere()" classname="projet.approche.objet.domain.valueObject.grid.GridTest" time="0.013"/>
+  <testcase name="testRemoveBuilding_NotInGrid()" classname="projet.approche.objet.domain.valueObject.grid.GridTest" time="0.003"/>
+  <testcase name="testSetBuilding_NotFree()" classname="projet.approche.objet.domain.valueObject.grid.GridTest" time="0.003"/>
+  <testcase name="testSetBuilding_Success()" classname="projet.approche.objet.domain.valueObject.grid.GridTest" time="0.002"/>
+  <testcase name="testSetBuilding_NotInGrid()" classname="projet.approche.objet.domain.valueObject.grid.GridTest" time="0.002"/>
+  <testcase name="testRemoveBuilding()" classname="projet.approche.objet.domain.valueObject.grid.GridTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

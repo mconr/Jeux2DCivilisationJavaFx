@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="projet.approche.objet.domain.valueObject.needs.NeedsTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2024-12-15T16:54:48" hostname="LAPTOP-H2MF1KJE" time="0.063">
+  <properties/>
+  <testcase name="testAdd()" classname="projet.approche.objet.domain.valueObject.needs.NeedsTest" time="0.002"/>
+  <testcase name="testSub()" classname="projet.approche.objet.domain.valueObject.needs.NeedsTest" time="0.004"/>
+  <testcase name="testGetRemainingResources()" classname="projet.approche.objet.domain.valueObject.needs.NeedsTest" time="0.007"/>
+  <testcase name="testGetMissingResources()" classname="projet.approche.objet.domain.valueObject.needs.NeedsTest" time="0.002"/>
+  <testcase name="testEquals()" classname="projet.approche.objet.domain.valueObject.needs.NeedsTest" time="0.002"/>
+  <testcase name="testMultiply()" classname="projet.approche.objet.domain.valueObject.needs.NeedsTest" time="0.002"/>
+  <testcase name="testConstructor()" classname="projet.approche.objet.domain.valueObject.needs.NeedsTest" time="0.002"/>
+  <testcase name="testIsAffordable()" classname="projet.approche.objet.domain.valueObject.needs.NeedsTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
