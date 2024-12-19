@@ -1,7 +1,13 @@
-# Jeux2DCivilisationJavaFx
+![Game](https://github.com/user-attachments/assets/ab8d0980-a772-46ec-af24-f2e2648436e4)# Jeux2DCivilisationJavaFx
 Jeux 2D Civilisation JavaFx
 
 # Projet-Approche-Objet
+<p align="center">
+![Game](https://github.com/user-attachments/assets/dae39285-28b9-40b6-ab14-d7f000866bb1)
+![image](https://github.com/user-attachments/assets/2cbed018-8efc-4a5c-83ed-c345122dbe50)
+</p>
+![GameOver](https://github.com/user-attachments/assets/413738e7-95a3-4f0d-b6d6-1b9767b74970)
+
 
 ## Description
 Le jeu que nous proposons est un jeu type "Civilization", dont le but est de maintenir l'économie d'une ville le plus longtemps possible. Vous allez vous occuper de la gestion des ressources, de la construction de bâtiments afin de recolter des ressources, ainsi que la population de votre ville.  
